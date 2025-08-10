@@ -52,19 +52,22 @@ We built a **Machine Learning regression model**, deployed it using **Flask**, a
 
 ### 🔷 App Frontend (Before Prediction)
 
-![App Frontend](frontend_1.PNG)
+![App Frontend] 
+<img width="960" height="540" alt="ootput-student_mark_predictor" src="https://github.com/user-attachments/assets/5947a87a-e7c2-4330-aa10-d48e017dfcfd" />
 
 ---
 
 ### 🔷 Prediction Example – 5 Hours Input
 
-![Predicted Output](prediction_5hr.PNG)
+![Predicted Output] <img width="944" height="482" alt="student predict marks-output" src="https://github.com/user-attachments/assets/f258511b-4086-4f32-a6a0-9f2ddf1c0d22" />
+
 
 ---
 
 ### 🔷 Error Message for Invalid Input (e.g., 25 hours)
 
-![Error Message](error_message.PNG)
+![Error Message]<img width="944" height="482" alt="student predict marks-output" src="https://github.com/user-attachments/assets/93c13d7a-c654-45b8-babf-2535eab847b6" />
+
 
 ---
 
@@ -136,7 +139,7 @@ student_marks_predictor/
 
 ## 📬 Author
 
-**Akshay Bhujbal**
+**Vanitha Gadge**
 Passionate about ML, Data Science, and real-world applications.
 Let’s connect on LinkedIn or GitHub!
 
